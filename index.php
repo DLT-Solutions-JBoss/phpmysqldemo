@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Hello OpenShift v3.1</title>
+  <title>Hello OpenShift v3.1 - Demo</title>
   <style>
     table, th, td {
       border: 1px solid black;
@@ -13,7 +13,7 @@
   </style>
  </head>
  <body>
- <h1>Hello OpenShift v3.1</h1>
+ <h1>Hello OpenShift v3.1 Rick! </h1>
 <?php
 error_reporting(E_ERROR);
 
